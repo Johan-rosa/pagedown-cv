@@ -1,0 +1,220 @@
+---
+title: "Johan Rosa"
+author: Johan Rosa
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Información {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> johan.rosaperez@gmail.com
+- <i class="fa fa-github"></i> [github.com/johan-rosa](https://github.com/Johan-rosa)
+- <i class="fab fa-blogger"></i> [johan-rosa.com](https://www.johan-rosa.com)
+- <i class="fab fa-stack-overflow"></i> [johan-rosa](https://stackoverflow.com/users/10266675/johan-rosa)
+- <i class="fa fa-phone"></i> 809-715-3118
+
+
+Habilidades {#skills}
+--------------------------------------------------------------------------------
+
+- Experimentado en análisis estadístico, modelos econométricos y de aprendizaje automático.
+
+- Dominio avanzado de R, e intermedio de Python y SQL
+
+- Conocimiento intermedio de desarrollo web: HTML, CSS, Javascript, REACT
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+
+
+
+Main
+================================================================================
+
+Johan Rosa {#title}
+--------------------------------------------------------------------------------
+
+### Economista
+
+Investigador con experiencia en programación con R y hábil en la realización de estudiós macroeconómicos y sociales. Me apasiona la visualización de datos y dedicar tiempo a proyectos innovadores. En mi blog hay buenas referencias las cosas que hago. [https://www.johan-rosa.com/](https://www.johan-rosa.com/)
+
+
+Educación {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Maestría en Diseño Estadístico de Investigaciones
+
+Universidad Autónoma de Santo Domingo
+
+N/A
+
+2018
+
+### Licenciatura en Economía
+
+Universidad Autónoma de Santo Domingo
+
+N/A
+
+2014
+
+
+Experiencia Laboral {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Asistente técnico
+
+Banco Central de la República Dominicana.
+
+N/A
+
+2018 - actualidad
+
+::: concise
+- Análisis de encuestas macro. 
+- Análisis macroeconómico.
+- Diseño de indicadores económicos.
+:::
+
+### Analista de Estadísticas
+
+Superintendencia de Pensiones
+
+N/A
+
+2015 - 2017
+
+::: concise
+- Investigaciones. 
+- Reportes e informes.
+:::
+
+### Analista de Metodología 
+
+Oficina Nacional de Estadística
+
+N/A
+
+2012 - 2015
+
+::: concise
+- Diseño de índices de precios. 
+- Cálculo de cifras de pobreza.
+- Diseño de levantamientos de datos.
+:::
+
+Educación continuada {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Career track: Data Anlalyst and R programmer
+
+[Data camp](https://www.datacamp.com/profile/johanrosaperez)
+
+N/A
+
+2019
+
+### Programación y análisis estadístico en R
+
+Universidad Autónoma de Santo Domingo
+
+N/A
+
+2016
+
+### Introducción a la programación estadística con R
+
+Universidad Autónoma de México
+
+N/A
+
+2016
+
+### Encuesta de Calidad de vida
+
+Fundación CEDDET, INE de España
+
+N/A
+
+2015
+
+### Números Índices, Aspectos Prácticos y Teóricos
+
+Fundación CEDEET, INE de España
+
+N/A
+
+2013
+
+### Introducción al análisis multivariado con aplicaciones
+
+Universidad Autónoma de Santo Domingo
+
+N/A
+
+2013
+
+### Diplomado de Econometría aplicada 
+
+Universidad Autónoma de Santo Domingo
+
+N/A
+
+2012
+
+
+Referencias
+--------------------------------------------------------------------------------
+
+
+### Dr. Antonio Ciriaco Cruz 
+
+Vicedecano Facultad de Ciencias Económica y Sociales 
+
+UASD
+
+N/A
+
+::: concise
+- <i class="fas fa-phone"></i> (809) 882-6406 
+- <i class="fas fa-envelope"></i> Ciricruz1@hotmail.com
+:::
+
+
+### Juan Manuel Pérez
+
+Director de Estudios
+
+Superintendencia de Pensiones
+
+N/A
+
+::: concise
+- <i class="fas fa-phone"></i> (829) 764-7429
+- <i class="fas fa-envelope"></i> jmperez@sipen.gov.do
+:::
+
+### Nerys Ramírez 
+
+Jefe de división
+
+Banco Central de la República Doinicana
+
+N/A
+
+::: concise
+- <i class="fas fa-phone"></i> (829) 650-4056
+- <i class="fas fa-envelope"></i> nerys-ramirez@gmail.com
+:::
+

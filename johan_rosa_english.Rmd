@@ -1,0 +1,162 @@
+---
+title: "Johan Rosa"
+author: Johan Rosa
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Information {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> johan.rosaperez@gmail.com
+- <i class="fa fa-github"></i> [github.com/johan-rosa](https://github.com/Johan-rosa)
+- <i class="fab fa-blogger"></i> [johan-rosa.com](johan-rosa.com)
+- <i class="fab fa-stack-overflow"></i> [johan-rosa](https://stackoverflow.com/users/10266675/johan-rosa)
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Statistical anlysis, econometric modeling and machine learnig, web development and programming.
+
+- Advance R, HTML, CSS, JavaScript
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+Created using [**pagedown**](https://urldefense.com/v3/__https://github.com/rstudio/pagedown__;!!MXQJGYEVCjwd!BySzNLQRtzH08e_S-q_w-vBH_9ZLVJ3OngvOwpyDrG8DtZPd_0q7wCeApEGA7XiNfCrL4w$ ).
+
+Las update `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Johan Rosa {#title}
+--------------------------------------------------------------------------------
+
+### Economist
+
+Researcher with experience in statistical programming with R, fluent creating social and macroeconomic research. I love data visualisation as a tool to generate insights and investing time in outstanding projects. In my personal blog there are good references about the things I do. (https://www.johan-rosa.com/)
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### M.S Statistical Design for Investigations
+
+Autonomous University of Santo Domingo
+
+N/A
+
+2018
+
+### Degree in Economics
+
+Autonomous University of Santo Domingo
+
+N/A
+
+2014
+
+
+Laboral experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+### R/Shiny developer
+
+N/A
+
+2022 - actual
+
+Appsilon
+
+::: concise
+- Shiny developer
+- Consultant
+- Data Analyst
+- quality engineer
+:::
+
+
+### Economist
+
+Central Bank of the Dominican Republic.
+
+N/A
+
+2018 - 2023
+
+::: concise
+- Macroeconomic Survey Analysis. 
+- Macroeconomic Indicators design.
+- Economic policy evaluation.
+:::
+
+### Statistic Analyst
+
+Pension Funds Superintendence
+
+N/A
+
+2015 - 2017
+
+::: concise
+- Research. 
+- Reports and publications.
+:::
+
+Courses and certifications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### JavaScript Algorithms and Data Structures
+
+[freeCodeCamp](https://www.freecodecamp.org/certification/fcc3bb4a350-a46d-4c79-bc42-60f41ddfb9b2/javascript-algorithms-and-data-structures)
+
+N/A
+
+2021
+
+
+### Career track: Data Anlalyst and R programmer
+
+[Data camp](https://www.datacamp.com/profile/johanrosaperez)
+
+N/A
+
+2019
+
+### Programming and data analysis with R
+
+Autonomous University of Santo Domingo
+
+N/A
+
+2016
+
+### Introduction to statistical programming with R
+
+Autonomous University of Mexico
+
+N/A
+
+2016
+
+### Multivariated analysis with applications
+
+Autonomous University of Santo Domingo
+
+N/A
+
+2013
+
+
