@@ -4,10 +4,7 @@ author: Johan Rosa
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
-# uncomment this line to produce HTML and PDF in RStudio:
-#knit: pagedown::chrome_print
 ---
 
 Aside
@@ -27,7 +24,7 @@ Skills {#skills}
 
 - Statistical anlysis, econometric modeling and machine learnig, web development and programming.
 
-- Advance R, HTML, CSS, JavaScript
+- Advance R, HTML, CSS, JavaScript, git, docker
 
 
 Disclaimer {#disclaimer}
@@ -45,15 +42,15 @@ Main
 Johan Rosa {#title}
 --------------------------------------------------------------------------------
 
-### Economist
+### Economist, R/Shiny developer
 
-Researcher with experience in statistical programming with R, fluent creating social and macroeconomic research. I love data visualisation as a tool to generate insights and investing time in outstanding projects. In my personal blog there are good references about the things I do. (https://www.johan-rosa.com/)
+I'm an economist with a strong background in data analysis and R programming. My experience includes roles as an R/Shiny developer and consultant at  [Appsilon](https://appsilon.com), and as an economist with my country's central bank. I specialize in macroeconomic research, time series forecasting, data visualization, and building web applications. Committed to continuous learning and knowledge sharing, I maintain an active presence on [Stack Overflow](https://stackoverflow.com/users/10266675/johan-rosa) and regularly contribute to [my blog](https://www.johan-rosa.com/).
 
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### M.S Statistical Design for Investigations
+### M.S Statistics
 
 Autonomous University of Santo Domingo
 
@@ -74,17 +71,18 @@ Laboral experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 ### R/Shiny developer
 
+Appsilon
+
 N/A
 
-2022 - actual
+2022 - 2024
 
-Appsilon
 
 ::: concise
 - Shiny developer
 - Consultant
 - Data Analyst
-- quality engineer
+- Quality engineer
 :::
 
 
@@ -100,6 +98,7 @@ N/A
 - Macroeconomic Survey Analysis. 
 - Macroeconomic Indicators design.
 - Economic policy evaluation.
+- Forecasting
 :::
 
 ### Statistic Analyst
