@@ -4,9 +4,7 @@ author: Johan Rosa
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
-# uncomment this line to produce HTML and PDF in RStudio:
 #knit: pagedown::chrome_print
 ---
 
@@ -16,28 +14,21 @@ Aside
 Información {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> johan.rosaperez@gmail.com
-- <i class="fa fa-github"></i> [github.com/johan-rosa](https://github.com/Johan-rosa)
-- <i class="fab fa-blogger"></i> [johan-rosa.com](https://www.johan-rosa.com)
+- <i class="fa fa-envelope"></i> johan.rosaperez@gmail.com  
+- <i class="fa fa-github"></i> [github.com/johan-rosa](https://github.com/Johan-rosa)  
+- <i class="fab fa-blogger"></i> [johan-rosa.com](https://johan-rosa.com)  
 - <i class="fab fa-stack-overflow"></i> [johan-rosa](https://stackoverflow.com/users/10266675/johan-rosa)
-- <i class="fa fa-phone"></i> 809-715-3118
-
 
 Habilidades {#skills}
 --------------------------------------------------------------------------------
 
-- Experimentado en análisis estadístico, modelos econométricos y de aprendizaje automático.
+- Análisis estadístico, modelado econométrico y aprendizaje automático, desarrollo web y programación.  
+- R avanzado, JavaScript, React
 
-- Dominio avanzado de R, e intermedio de Python y SQL
-
-- Conocimiento intermedio de desarrollo web: HTML, CSS, Javascript, REACT
-
-
-Disclaimer {#disclaimer}
+Descargo de responsabilidad {#disclaimer}
 --------------------------------------------------------------------------------
 
-
-
+Última actualización: `r Sys.Date()`.
 
 Main
 ================================================================================
@@ -47,13 +38,12 @@ Johan Rosa {#title}
 
 ### Economista
 
-Investigador con experiencia en programación con R y hábil en la realización de estudiós macroeconómicos y sociales. Me apasiona la visualización de datos y dedicar tiempo a proyectos innovadores. En mi blog hay buenas referencias las cosas que hago. [https://www.johan-rosa.com/](https://www.johan-rosa.com/)
+Economista y científico de datos con experiencia en análisis macroeconómico, modelado de series de tiempo y desarrollo de aplicaciones web. Trabajo como economista senior en el Banco Central de la República Dominicana y consultor en R/Shiny para empresas multinacionales en Appsilon.
 
-
-Educación {data-icon=graduation-cap data-concise=true}
+Formación académica {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Maestría en Diseño Estadístico de Investigaciones
+### Maestría en diseño estadístico e investigaciones
 
 Universidad Autónoma de Santo Domingo
 
@@ -69,25 +59,37 @@ N/A
 
 2014
 
-
-Experiencia Laboral {data-icon=suitcase}
+Experiencia laboral {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
-### Asistente técnico
+### Economista / Jefe de división
 
-Banco Central de la República Dominicana.
+Banco Central de la República Dominicana
 
 N/A
 
-2018 - actualidad
+2018 - presente
 
 ::: concise
-- Análisis de encuestas macro. 
-- Análisis macroeconómico.
-- Diseño de indicadores económicos.
+- Análisis de encuestas macroeconómicas.  
+- Análisis y estudios económicos.  
 :::
 
-### Analista de Estadísticas
+### Desarrollador R/Shiny
+
+Appsilon
+
+N/A
+
+2022 - 2025
+
+::: concise
+- Desarrollo de aplicaciones Shiny.  
+- Consultoría.  
+- Análisis de datos.  
+:::
+
+### Analista estadístico
 
 Superintendencia de Pensiones
 
@@ -96,11 +98,11 @@ N/A
 2015 - 2017
 
 ::: concise
-- Investigaciones. 
-- Reportes e informes.
+- Investigación.  
+- Informes y publicaciones.  
 :::
 
-### Analista de Metodología 
+### Analista
 
 Oficina Nacional de Estadística
 
@@ -109,23 +111,30 @@ N/A
 2012 - 2015
 
 ::: concise
-- Diseño de índices de precios. 
-- Cálculo de cifras de pobreza.
-- Diseño de levantamientos de datos.
+- Investigación.  
+- Medición de pobreza.  
 :::
 
-Educación continuada {data-icon=file}
+Cursos y certificaciones {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Career track: Data Anlalyst and R programmer
+### JavaScript Algorithms and Data Structures
 
-[Data camp](https://www.datacamp.com/profile/johanrosaperez)
+[freeCodeCamp](https://www.freecodecamp.org/certification/fcc3bb4a350-a46d-4c79-bc42-60f41ddfb9b2/javascript-algorithms-and-data-structures)
+
+N/A
+
+2021
+
+### Certificación online: Analista de datos y programador en R
+
+[DataCamp](https://www.datacamp.com/profile/johanrosaperez)
 
 N/A
 
 2019
 
-### Programación y análisis estadístico en R
+### Programación y análisis de datos con R
 
 Universidad Autónoma de Santo Domingo
 
@@ -135,86 +144,8 @@ N/A
 
 ### Introducción a la programación estadística con R
 
-Universidad Autónoma de México
+Universidad Nacional Autónoma de México
 
 N/A
 
 2016
-
-### Encuesta de Calidad de vida
-
-Fundación CEDDET, INE de España
-
-N/A
-
-2015
-
-### Números Índices, Aspectos Prácticos y Teóricos
-
-Fundación CEDEET, INE de España
-
-N/A
-
-2013
-
-### Introducción al análisis multivariado con aplicaciones
-
-Universidad Autónoma de Santo Domingo
-
-N/A
-
-2013
-
-### Diplomado de Econometría aplicada 
-
-Universidad Autónoma de Santo Domingo
-
-N/A
-
-2012
-
-
-Referencias
---------------------------------------------------------------------------------
-
-
-### Dr. Antonio Ciriaco Cruz 
-
-Vicedecano Facultad de Ciencias Económica y Sociales 
-
-UASD
-
-N/A
-
-::: concise
-- <i class="fas fa-phone"></i> (809) 882-6406 
-- <i class="fas fa-envelope"></i> Ciricruz1@hotmail.com
-:::
-
-
-### Juan Manuel Pérez
-
-Director de Estudios
-
-Superintendencia de Pensiones
-
-N/A
-
-::: concise
-- <i class="fas fa-phone"></i> (829) 764-7429
-- <i class="fas fa-envelope"></i> jmperez@sipen.gov.do
-:::
-
-### Nerys Ramírez 
-
-Jefe de división
-
-Banco Central de la República Doinicana
-
-N/A
-
-::: concise
-- <i class="fas fa-phone"></i> (829) 650-4056
-- <i class="fas fa-envelope"></i> nerys-ramirez@gmail.com
-:::
-

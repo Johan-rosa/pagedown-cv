@@ -24,7 +24,11 @@ Skills {#skills}
 
 - Statistical anlysis, econometric modeling and machine learnig, web development and programming.
 
+<<<<<<< HEAD
 - Advance R, HTML, CSS, JavaScript, git, docker
+=======
+- Advance R, JavaScript, React
+>>>>>>> b1ada38 (Update as of 2025-04-15)
 
 
 Disclaimer {#disclaimer}
@@ -32,7 +36,7 @@ Disclaimer {#disclaimer}
 
 Created using [**pagedown**](https://urldefense.com/v3/__https://github.com/rstudio/pagedown__;!!MXQJGYEVCjwd!BySzNLQRtzH08e_S-q_w-vBH_9ZLVJ3OngvOwpyDrG8DtZPd_0q7wCeApEGA7XiNfCrL4w$ ).
 
-Las update `r Sys.Date()`.
+Last update `r Sys.Date()`.
 
 
 
@@ -44,13 +48,21 @@ Johan Rosa {#title}
 
 ### Economist, R/Shiny developer
 
+<<<<<<< HEAD
 I'm an economist with a strong background in data analysis and R programming. My experience includes roles as an R/Shiny developer and consultant at  [Appsilon](https://appsilon.com), and as an economist with my country's central bank. I specialize in macroeconomic research, time series forecasting, data visualization, and building web applications. Committed to continuous learning and knowledge sharing, I maintain an active presence on [Stack Overflow](https://stackoverflow.com/users/10266675/johan-rosa) and regularly contribute to [my blog](https://www.johan-rosa.com/).
+=======
+Economist and data scientist with expertise in macroeconomic analysis, time series modeling, and web application development. Senior economist in the Central Bank of the Dominican Republic and R/Shiny consultant for multinational companies at Appsilon.
+>>>>>>> b1ada38 (Update as of 2025-04-15)
 
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 ### M.S Statistics
+=======
+### Master’s Degree in Research and Statistics
+>>>>>>> b1ada38 (Update as of 2025-04-15)
 
 Autonomous University of Santo Domingo
 
@@ -69,9 +81,29 @@ N/A
 
 Laboral experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
-### R/Shiny developer
+### Economist
+
+Central Bank of the Dominican Republic.
 
 Appsilon
+
+N/A
+
+<<<<<<< HEAD
+2022 - 2024
+=======
+2018 - present
+
+::: concise
+- Macroeconomic Survey Analysis. 
+- Macroeconomic Indicators design.
+- Economic policy evaluation.
+:::
+
+
+### R/Shiny developer
+>>>>>>> b1ada38 (Update as of 2025-04-15)
+
 
 N/A
 
@@ -86,6 +118,7 @@ N/A
 :::
 
 
+<<<<<<< HEAD
 ### Economist
 
 Central Bank of the Dominican Republic.
@@ -101,6 +134,8 @@ N/A
 - Forecasting
 :::
 
+=======
+>>>>>>> b1ada38 (Update as of 2025-04-15)
 ### Statistic Analyst
 
 Pension Funds Superintendence
@@ -112,6 +147,21 @@ N/A
 ::: concise
 - Research. 
 - Reports and publications.
+:::
+
+Courses and certifications {data-icon=file}
+
+### Anlayst
+
+National Statistics Office
+
+N/A
+
+2012 - 2015
+
+::: concise
+- Research. 
+- Poverty measurement. 
 :::
 
 Courses and certifications {data-icon=file}
