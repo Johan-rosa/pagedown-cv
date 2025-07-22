@@ -4,7 +4,7 @@ render_cv <- function(
 ) {
   temp_html <- tempfile(fileext = ".html")
   rmarkdown::render(
-    input = "johan_rosa_spanish.Rmd",
+    input = input,
     output_file = temp_html
   )
   pagedown::chrome_print(temp_html, output)
@@ -12,3 +12,4 @@ render_cv <- function(
 }
 
 render_cv("johan_rosa_spanish.Rmd")
+render_cv("johan_rosa_english.Rmd")
